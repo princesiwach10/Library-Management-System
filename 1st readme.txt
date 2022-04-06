@@ -9,3 +9,8 @@ A Student, which have group of "User" can only view books.
 Permission for all students have been set by Django Groups Permission which is "User".
 
 I also attached DB file that you can check.
+
+Credential
+
+SuperUser - admin@library.com/Keywordio.1#
+User - iamsiwach@gmail.com/Users.1#
